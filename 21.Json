@@ -1,0 +1,53 @@
+{
+  "Aboba": true,
+  "workers": [
+    {
+      "name": "VALERY",
+      "id": 21,
+      "second_name": "ZHMICHENKO",
+      "middle_name":"ALBERTOVICH",
+      "job_title":"veteran",
+      "date":"21.11.1985"
+    },
+    {
+     "name": "Molecule Man",
+      "id": 33,
+      "second_name": "Petrosyan",
+      "middle_name":"Abobovich",
+      "job_title":"kekv",
+      "date":"21.11.1974"
+    },
+    {
+      "name": "Yasha",
+      "id": 69,
+      "second_name": "Kenteyev",
+      "middle_name":"Abobovich",
+      "job_title":"kekv",
+      "date":"21.11.1920"
+    },
+    {
+      "name": "Moisha",
+      "id": 1337,
+      "second_name": "Abramovich",
+      "middle_name":"Yakovlev",
+      "job_title":"kekv",
+      "date":"21.11.1947"
+    },
+    {
+      "name": "Leroy",
+      "id": 228,
+      "second_name": "Jerkins",
+      "middle_name":"Abobovich",
+      "job_title":"kekv",
+      "date":"21.11.1921"
+    },
+    {
+      "name": "Alexa",
+      "id": 1488,
+      "second_name": "Petrov",
+      "middle_name":"Albertovich",
+      "job_title":"kekv",
+      "date":"21.11.2000"
+    }
+  ]
+}
